@@ -1,0 +1,1 @@
+A animeted rotating navbar created by using HTML CSS and Javascript
